@@ -2,46 +2,46 @@
 var friendsArray = [
 	{
 		name: 'Vader',
-		photo: 'http://cdn3-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-15.jpg',
+		photo: 'https://static1.squarespace.com/static/5989ffdacf81e028a033743d/t/59b1cf3c80bd5e49f8085811/1504825180421/3653334524001_5381043941001_5379748916001-vs.jpg',
 		scores: [
-			'1',
+			'5',
+			'5',
+			'5',
+			'3',
 			'5',
 			'5',
 			'1',
 			'5',
-			'5',
-			'1',
-			'1',
-			'1',
-			'5'
+			'2',
+			'1'
 		]
 	},
 	{
 		name: 'Princess',
-		photo: 'https://i.ytimg.com/vi/mRf3-JkwqfU/hqdefault.jpg',
+		photo: 'https://am22.akamaized.net/tms/cnt/uploads/2017/08/leiatop1-650x574.jpg',
 		scores: [
 			'2',
+			'1',
 			'4',
-			'1',
-			'1',
-			'1',
-			'1',
-			'1',
+			'3',
 			'2',
+			'3',
 			'1',
-			'5'
+			'1',
+			'1',
+			'1'
 		]
 	},
 	{
 		name: 'Luke',
-		photo: 'http://cdn3-www.cattime.com/assets/uploads/2011/08/best-kitten-names-1.jpg',
+		photo: 'https://vignette3.wikia.nocookie.net/starwars/images/6/62/LukeGreenSaber-MOROTJ.png/revision/latest?cb=20150426200707',
 		scores: [
-			'4',
+			'5',
+			'1',
 			'3',
 			'5',
+			'2',
 			'1',
-			'1',
-			'5',
 			'5',
 			'1',
 			'1',
@@ -50,113 +50,113 @@ var friendsArray = [
 	},
 	{
 		name: 'Han',
-		photo: 'https://pbs.twimg.com/profile_images/562466745340817408/_nIu8KHX.jpeg',
+		photo: 'http://s3.amazonaws.com/digitaltrends-uploads-prod/2012/11/han-solo.jpeg',
 		scores: [
-			'5',
+			'1',
+			'1',
 			'1',
 			'2',
+			'2',
+			'2',
 			'1',
-			'3',
+			'1',
 			'4',
-			'1',
-			'3',
-			'3',
-			'4'
+			'1'
 		]
 	},
 	{
-		name: 'Obe',
-		photo: 'http://4.bp.blogspot.com/-HTvSYzA-pO4/UgQb4Zh_u0I/AAAAAAAAEuI/XwhtogT_1tA/s1600/3+cute2.jpg',
+		name: 'Obi',
+		photo: 'https://vignette.wikia.nocookie.net/starwars/images/4/4e/ObiWanHS-SWE.jpg',
+		scores: [
+			'5',
+			'1',
+			'5',
+			'3',
+			'1',
+			'3',
+			'5',
+			'1',
+			'1',
+			'1'
+		]
+	},
+	{
+		name: 'Lando',
+		photo: 'https://lumiere-a.akamaihd.net/v1/images/Lando-Calrissian_a679fe1e.jpeg',
 		scores: [
 			'1',
+			'2',
+			'3',
+			'2',
+			'3',
+			'3',
+			'5',
+			'3',
+			'3',
+			'1'
+		]
+	},
+	{
+		name: 'Boba',
+		photo: 'https://www.purefandom.com/wp-content/uploads/2017/03/bobafett.jpg',
+		scores: [
 			'1',
+			'4',
+			'3',
+			'4',
 			'5',
-			'5',
-			'5',
-			'5',
-			'5',
+			'3',
+			'3',
 			'5',
 			'5',
 			'1'
 		]
 	},
 	{
-		name: 'Lando',
-		photo: 'http://img.mindbodygreen.com/image/upload/c_limit,w_738,f_auto/ftr/Miss-Piggy-large-tonya-312.jpg',
-		scores: [
-			'1',
-			'1',
-			'5',
-			'1',
-			'3',
-			'2',
-			'5',
-			'1',
-			'1',
-			'5'
-		]
-	},
-	{
-		name: 'Boba',
-		photo: 'http://www.billboard.com/files/styles/article_main_image/public/media/beyonce-feb-2014-billboard-650.jpg',
-		scores: [
-			'5',
-			'4',
-			'4',
-			'2',
-			'4',
-			'4',
-			'3',
-			'2',
-			'3',
-			'3'
-		]
-	},
-	{
 		name: 'Admiral',
-		photo: 'https://i1.imgiz.com/data/videoshots/6829/6829475-6461.jpg',
+		photo: 'https://cdn.movieweb.com/img.news.tops/NEKTqP8gm2Y8NS_1_a/Rogue-One-Why-No-Admiral-Ackbar.jpg',
 		scores: [
-			'5',
+			'1',
+			'1',
+			'4',
+			'2',
+			'3',
 			'2',
 			'3',
 			'1',
-			'5',
-			'1',
-			'3',
-			'1',
-			'1',
-			'5'
+			'2',
+			'1'
 		]
 	},
 	{
 		name: 'Chewy',
-		photo: 'http://i.dailymail.co.uk/i/pix/2015/09/02/08/2BE5406100000578-3218820-image-m-25_1441179775589.jpg',
+		photo: 'http://imgc.allpostersimages.com/img/posters/star-wars-episode-viii-the-last-jedi-chewbacca-bowcaster_u-L-F93H7O0.jpg',
 		scores: [
+			'1',
+			'1',
+			'1',
+			'3',
+			'3',
+			'1',
 			'5',
-			'5',
-			'5',
-			'5',
-			'5',
-			'5',
-			'5',
-			'5',
-			'5',
+			'1',
+			'1',
 			'5'
 		]
 	},
 	{
 		name: 'Emperor',
-		photo: 'http://1rjm5qg4v8732kpmn44ya6bj-wpengine.netdna-ssl.com/wp-content/uploads/2012/11/elmo-6601.png',
+		photo: 'http://assets1.ignimgs.com/2016/06/22/untitledjpg-6aae03_400w.jpg',
 		scores: [
+			'5',
+			'5',
+			'5',
+			'2',
+			'5',
+			'5',
+			'3',
 			'1',
-			'1',
-			'1',
-			'1',
-			'1',
-			'1',
-			'1',
-			'1',
-			'1',
+			'5',
 			'1'
 		]
 	}
